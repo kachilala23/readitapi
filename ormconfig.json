@@ -5,7 +5,7 @@
    "username": "kachilala",
    "password": "daniel101",
    "database": "readitdb",
-   "synchronize": true,
+   "synchronize": false,
    "logging": true,
    "entities": [
       "src/entities/**/*.ts"
